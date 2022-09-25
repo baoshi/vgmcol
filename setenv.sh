@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env bash
 
 add_to_path() {
   for d; do
@@ -11,8 +11,8 @@ add_to_path() {
   done
 }
 
-
 SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
-ARCH=`uname -sm`
-add_to_path ${SCRIPT_DIR}/tools/${ARCH} 
+SYS=`uname -s`
+ARCH=`uname -m`
+add_to_path ${SCRIPT_DIR}/tools/${SYS}_${ARCH} 
 
