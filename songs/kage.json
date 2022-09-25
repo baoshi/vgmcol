@@ -1,0 +1,68 @@
+{
+  "nsf_file": "kage.nsf",
+  "out_dir" : "",
+  "game_name": "",
+  "authors": "",
+  "release_date": "1990/08/10",
+  "max_track_length": 120,
+  "max_records": 100000,
+  "silence_detection": true,
+  "min_silence": 2,
+  "loop_detection": true,
+  "min_loop_records": 1000,
+  "tracks": [
+    {
+      "index": 1,
+      "name": "Opening"
+    },
+    {
+      "index": 2,
+      "name": "Stage Start"
+    },
+    {
+      "index": 3,
+      "name": "Stage 1",
+      "max_track_length": 200
+    },
+    {
+      "index": 4,
+      "name": "Stage 2"
+    },
+    {
+      "index": 5,
+      "name": "Stage 3",
+      "max_track_length": 100.802,
+      "loop_detection": false
+    },
+    {
+      "index": 6,
+      "name": "Stage 4"
+    },
+    {
+      "index": 7,
+      "name": "Stage 5"
+    },
+    {
+      "index": 8,
+      "name": "Boss Fight"
+    },
+    {
+      "index": 9,
+      "name": "Stage Clear"
+    },
+    {
+      "index": 10,
+      "name": "Game Over"
+    },
+    {
+      "index": 11,
+      "name": "Ending",
+      "max_track_length": 300
+    },
+    {
+      "index": 12,
+      "name": "Final Boss"
+    }
+  ]
+}
+
