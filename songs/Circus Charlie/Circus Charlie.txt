@@ -1,0 +1,35 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Circus Charlie
+System:              Family Computer
+Music hardware:      NES APU (N2A03)
+
+Music author:        Shinya Sakamoto (AC / FC),
+                     Katsuya Ogawa (FC)
+Game developer:      Konami (AC / FC)
+Game publisher:      Soft Pro
+Game release date:   1986-03-04
+
+Package created by:  Sonic of 8!
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Jump Through the Wheel of Fire ~
+   Get on the Bend                  0:22   0:22
+02 Ropewalking ~ Jump on the Jewel  0:30   0:30
+03 Aerial Bar                       0:26   0:26
+04 Miss                             0:04   -
+
+Total Length                        1:21   2:39
+
+
+Notes:
+-
+
+
+Package history:
+1.00 2014-11-14 Sonic of 8!: Initial release.

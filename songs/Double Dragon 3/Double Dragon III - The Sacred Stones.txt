@@ -1,0 +1,66 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Double Dragon III: The
+                     Sacred Stones (UE) /
+                     Double  Dragon III: The
+                     Rosetta Stone (J)
+System:              Nintendo Entertainment
+                     System / Famicom
+Music hardware:      NES APU (N2A03)
+
+Music author:        Akira Inoue,
+                     Takaro Nozaki,
+                     Michiya Hirasawa,
+                     Yoshihiro Kameoka
+Game developer:      Technos Japan
+Game publisher:      Technos Japan (J) /
+                     Acclaim (UE)
+Game release date:   1991-02-22
+
+Package created by:  GTheGuardian
+Package version:     1.00
+
+Song list, in approximate game order:
+                                    Total  Loop
+01 Title                            0:49   0:41
+02 To The Dragon World
+   (Intermission)                   0:08   0:08
+03 Cleopatra's Theme (Mission 1-1)  0:30   0:30
+04 In America (Mission 1-2)         0:41   0:41
+05 New Shadow Warriors
+   (Mission 1-3)                    0:17   0:17
+06 Jim's Theme (Boss 1)             0:18   0:17
+07 The Way of Sousetsuken (Mission
+   Clear)                           0:02   -
+08 In China (Mission 2)             0:30   0:30
+09 Chin's Theme (Boss 2)            0:44   0:43
+10 In Japan (Mission 3-1)           0:51   0:51
+11 Ranzou's Theme (Mission 3-2)     0:33   0:25
+12 Hiruko's Trap (Boss 3)           0:28   0:27
+13 In Italy (Mission 4)             1:41   0:50
+14 Giuliano's Theme (Boss 4)        0:26   0:25
+15 Enter the Dragon (Mission 5-1)   0:48   0:48
+16 Cursed Forest (Mission 5-2)      2:34   2:25
+17 Mission 5-3                      0:55   0:36
+18 The 20,000 Year Old Monster
+   Arises (Boss 5-1)                0:35   0:27
+19 Roppe, the Stoneman (Boss 5-2)   0:34   0:27
+20 To Children in the World
+   (Ending)                         1:34   1:14
+21 Game Over                        0:02   -
+
+Total Length                       14:58  27:42
+
+
+Notes:
+Track names are taken from
+"Double Dragon 3 / The Combatribes"
+
+This pack was made using NEZPlug 0.9.4.8 + 2 +
+19.20 VGM mod.
+
+
+Package history:
+1.00 2013-06-26 GTheGuardian: Initial release.

@@ -1,0 +1,42 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Final Mission
+System:              Family Computer
+Music hardware:      NES APU (N2A03)
+
+Music author:        Kiyohiro Sada
+Game developer:      Natsume
+Game publisher:      Natsume
+Game release date:   1990-07-22
+
+Package created by:  GTheGuardian
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Opening                          1:29   0:45
+02 Stage 1                          0:34   0:30
+03 Boss                             0:13   0:13
+04 Stage Clear                      0:04   -
+05 Stage 2                          0:35   0:29
+06 Stage 3-1, 4-1                   0:31   0:30
+07 Stage 3-2                        0:41   0:41
+08 Stage 4-2                        1:03   1:03
+09 Stage 4-3                        0:30   0:30
+10 Stage 5                          0:40   0:32
+11 Ending                           2:55   -
+12 Game Over                        0:05   -
+
+Total Length                        9:21  14:33
+
+
+Notes:
+This pack was made using NEZPlug 0.9.4.8 + 2 +
+19.20 VGM mod.
+
+
+Package history:
+1.00 2013-07-23 GTheGuardian: Initial release.

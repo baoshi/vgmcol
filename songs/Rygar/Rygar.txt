@@ -1,0 +1,61 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Rygar (U, E) /
+                     Argus no Senshi:
+                     Hachamecha Daishingeki (J)
+System:              Nintendo Entertainment
+                     System / Family Computer
+Music hardware:      NES APU (N2A03)
+
+Music author:        Michiharu Hasuya
+Game developer:      Tecmo
+Game publisher:      Tecmo
+Game release date:   1987-07 (U) /
+                     1987-04-17 (J) /
+                     1990-03-30 (E)
+
+Package created by:  2ch-H
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Starting Point (Sunset)          0:13   0:13
+02 Starting Point
+   (Sunset, JP Version)             0:48   0:45
+03 Gran Mountains                   1:07   1:07
+04 Gran Mountains (JP Version)      1:16   1:15
+05 Indora God                       0:36   0:36
+06 Indora God (JP Version)          0:38   0:32
+07 Garloz                           0:56   0:54
+08 Eruga's Forest                   1:49   1:49
+09 Boss                             0:02   0:02
+10 Mt. Primevil                     0:16   0:13
+11 Sagila's Cave                    1:17   1:17
+12 Sagila's Cave (JP Version)       0:51   0:51
+13 Dorago's Palace                  0:02   0:02
+14 Dorago's Palace (JP Version)     0:38   0:38
+15 Lapis                            1:29   1:29
+16 Tower of Garba                   0:13   0:13
+17 Pegasus Flute                    0:04   -
+18 Sky Castle                       0:51   0:51
+19 Ligar (Last Boss)                0:02   0:02
+20 Ending                           1:28   1:26
+21 Game Over                        0:02   -
+
+Total Length                       14:38  28:52
+
+
+Notes:
+Track Names are used in in use scene.
+
+This pack was made using MESS0156 VGM mod.
+
+Size reduction (vgm_cmp):
+    1.87 MB -> 314 KB  (16.3 %)
+
+
+Package history:
+1.00 2015-08-31 2ch-H: Initial release.

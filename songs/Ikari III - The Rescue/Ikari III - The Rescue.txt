@@ -1,0 +1,55 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Ikari III: The Rescue (U)
+                     / Ikari III (J)
+System:              Nintendo Entertainment
+                     System / Family Computer
+Music hardware:      NES APU
+
+Music author:        Aran Lee,
+                     Toshikazu Tanaka
+Game developer:      SNK
+Game publisher:      SNK (U) /
+                     K Amusement Lising (J)
+Game release date:   1990-03-16
+
+Package created by:  2ch-H
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Opening                          0:22   -
+02 Title                            0:03   -
+03 Area 1                           1:33   1:11
+04 Boss 1                           0:21   0:21
+05 Area Clear                       0:05   -
+06 Area 2                           0:45   0:45
+07 Boss 2                           0:21   0:16
+08 Area 3                           1:01   0:48
+09 Area 3 Clear                     0:05   -
+10 Area 4                           0:48   0:48
+11 Area 4 Clear                     0:16   -
+12 Area 5                           0:51   0:38
+13 Ending                           1:50   -
+14 Game Over                        0:02   -
+15 Unused 1                         2:15   1:23
+16 Unused 2                         0:16   0:16
+
+Total Length                       10:53  17:19
+
+
+Notes:
+Track Names are used in use scene.
+
+This pack was made using MESS0148 VGM mod
+and nezplug++ 19.20 VGM mod(Only track 15, 16).
+
+Size reduction (vgm_cmp):
+    1.43 MB -> 659 KB (44.9 %)
+
+
+Package history:
+1.00 2014-01-12 2ch-H: Initial release.

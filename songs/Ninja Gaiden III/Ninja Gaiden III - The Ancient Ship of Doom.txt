@@ -1,0 +1,71 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Ninja Gaiden III:
+                     The Ancient Ship
+                     of Doom (U) /
+                     Ninja Ryukenden III:
+                     Yomi no Hakobune (J)
+System:              Nintendo Entertainment
+                     System / Famicom
+Music hardware:      NES APU (N2A03)
+
+Music author:        Rika Shigeno,
+                     Kaori Nakabai,
+                     Keiji Yamagishi
+Game developer:      Tecmo
+Game publisher:      Tecmo
+Game release date:   1991-06-21 (J) /
+                     1991-08 (U)
+
+Package created by:  Dario011
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Introduction I                   0:22   -
+02 Introduction II                  0:35   -
+03 Introduction III                 1:12   -
+04 Twist of Fate                    0:02   -
+05 Stage 1-1 / 5-1                  0:30   0:25
+06 Battlefield                      0:35   0:34
+07 Cinema Display I                 0:19   0:10
+08 Cinema Display II                0:44   0:37
+09 Stage 2-1 / 7-2                  0:32   0:26
+10 Cinema Display III               0:04   -
+11 Cinema Display IV                0:24   -
+12 Stage 2-2 / 5-2                  0:28   0:27
+13 Cinema Display V                 0:57   0:38
+14 Cinema Display VI                0:32   0:16
+15 Stage 3-1 / 6-2                  0:32   0:26
+16 Cinema Display VII               0:26   -
+17 Cinema Display VIII              0:03   -
+18 Stage 3-2 / 6-1                  0:29   0:26
+19 Cinema Display IX                0:34   0:30
+20 Stage 4-1 / 7-1                  1:21   0:54
+21 Cinema Display X                 0:57   -
+22 Stage 4-2 / 7-3                  1:02   0:40
+23 Cinema Display XI                0:11   0:10
+24 Cinema Display XII               0:17   -
+25 Cinema Display XIII              0:11   -
+26 Stage 7-5 / 7-6                  0:19   0:16
+27 Epilogue                         1:39   -
+28 Credits                          1:53   -
+29 Game Over                        0:03   -
+
+Total Length                       17:14  24:07
+
+
+Notes:
+Track Names and Order are from:
+Ninja Gaiden The Definitive Soundtrack
+Vol. 2 (GS-004).
+
+This pack was made using
+NEZplug 0.9.4.8 + 2 + 19.20 VGM Mod.
+
+
+Package history:
+1.00 2022-02-08 Dario011: Initial release.

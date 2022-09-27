@@ -1,0 +1,74 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Ninja Gaiden (U) /
+                     Ninja Ryūkenden (J) /
+                     Shadow Warriors (E)
+System:              Nintendo Entertainment
+                     System / Family Computer
+Music hardware:      NES APU (N2A03)
+
+Music author:        Keiji Yamagishi,
+                     Ryuichi Nitta
+Game developer:      Tecmo
+Game publisher:      Tecmo
+Game release date:   1988-12-19 (J) /
+                     1989-03 (U) /
+                     1991-08-15 (E)
+
+Package created by:  Gnome
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 The Moonlight Duel               0:20   -
+02 Determination: Father's Message  0:47   -
+03 The Dragon Ninja                 0:45   0:32
+04 Mysterious Woman                 0:26   -
+05 Bravery: On the Clutches         2:08   1:55
+06 Reminiscence                     0:45   0:37
+07 A Sudden Development             0:04   -
+08 Like a Howling Gale              0:05   0:05
+09 In Hiding: Pursuing the
+   Nightmare                        2:27   1:17
+10 Eyecatch                         0:04   -
+11 The CIA                          0:42   0:38
+12 The Sanctuary of Shadows         0:21   -
+13 The Amazing Ryu                  0:43   0:42
+14 Crisis                           0:48   -
+15 Surprise Attack: The Wicked
+   God's Secret Maneuvers           1:28   1:04
+16 Malth the Crimson Terror         0:16   0:11
+17 The Truth Concealed              0:56   -
+18 Melancholy Destiny               0:26   0:11
+19 Requiem                          0:45   -
+20 The Truth Concealed (Reprise)    0:13   -
+21 The Menace of Jaquio             0:37   0:22
+22 Showdown: At the Portal of Death
+   (Battlefield)                    0:36   0:34
+23 The Demon's Incantation          0:29   0:04
+24 In A Pinch: The Ordeal of Battle 0:27   0:24
+25 At The End of the Battle         1:09   -
+26 Irene: Overture of Dawn
+   (Prelude)                        0:55   -
+27 Credits                          1:44   -
+28 Game Over                        0:04   -
+29 Cinema Display Sound Attack 1    0:02   -
+30 Cinema Display Sound Attack 2    0:05   -
+
+Total Length                       20:38  29:14
+
+
+Notes:
+English track names are taken from
+"Ninja Gaiden
+The Definitive Soundtrack Vol. 1";
+Japanese track names are taken from
+"Ninja Ryukenden -G.S.M. TECMO 1-"
+(D28B-0013)
+
+
+Package history:
+1.00 2017-09-10 Gnome: Initial release.

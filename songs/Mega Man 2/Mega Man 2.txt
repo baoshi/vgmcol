@@ -1,0 +1,68 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Mega Man 2 (U, E) /
+                     Rockman 2: Dr. Wily no
+                     Nazo (J)
+System:              Nintendo Entertainment
+                     System / Family Computer
+Music hardware:      NES APU (N2A03)
+
+Music author:        Takashi Tateishi,
+                     Manami Matsumae
+ Sound Programmer:   Yoshihiro Sakaguchi
+Game developer:      Capcom
+Game publisher:      Capcom
+Game release date:   1989-07 (U) /
+                     1988-12-24 (J) /
+                     1990-12-14 (E)
+
+Package created by:  2ch-H
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Opening                          0:41   -
+02 Title                            0:43   -
+03 Pass Word                        0:06   0:06
+04 Stage Select                     0:07   0:05
+05 Game Start                       0:06   -
+06 Metal Man Stage                  0:38   0:38
+07 Air Man Stage                    0:45   0:45
+08 Bubble Man Stage                 0:43   0:32
+09 Quick Man Stage                  0:39   0:38
+10 Crash Man Stage                  1:29   1:04
+11 Flash Man Stage                  1:04   0:26
+12 Heat Man Stage                   0:38   0:26
+13 Wood Man Stage                   0:40   0:32
+14 Stage Clear                      0:05   -
+15 Get A Weapon                     0:03   0:03
+16 Dr. Wily UFO SE                  0:00   0:00
+17 Dr. Wily Map                     0:07   -
+18 Dr. Wily Stage 1                 1:15   1:15
+19 Dr. Wily Stage 2                 1:17   1:17
+20 Last Stage                       0:29   0:03
+21 Boss                             0:19   0:13
+22 Clear Demo                       0:16   -
+23 All Stage Clear                  0:09   -
+24 Ending                           1:10   -
+25 Credit Roll                      1:49   -
+26 Game Over                        0:03   -
+
+Total Length                       15:21  23:23
+
+
+Notes:
+Track Names are used in Rockman Sound Box.
+
+This pack was made using MESS0156 VGM mod.
+
+
+Size reduction (vgm_cmp):
+    1.81 MB -> 0.97 MB (53.5 %)
+
+
+Package history:
+1.00 2015-04-25 2ch-H: Initial release.

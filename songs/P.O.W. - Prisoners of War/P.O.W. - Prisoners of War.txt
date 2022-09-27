@@ -1,0 +1,56 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           P.O.W.: Prisoners of War
+                     (U, E) / Datsugoku (J)
+System:              Nintendo Entertainment
+                     System / Family Computer
+Music hardware:      NES APU
+
+Music author:        Toshikazu Tanaka,
+                     Kikuko Hataya,
+                     Yoko Osaka,
+                     Kazuhiro Nishida
+Game developer:      SNK
+Game publisher:      SNK (U, E) /
+                     K Amusement Lising (J)
+Game release date:   1989-06-30
+
+Package created by:  2ch-H
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Title                            0:14   -
+02 Start                            0:04   -
+03 Stage 1                          0:58   0:55
+04 Room 1                           0:30   0:30
+05 Boss 1                           0:23   0:22
+06 Stage Clear                      0:06   0:06
+07 Stage 2                          0:38   0:38
+08 Boss 2                           0:10   0:10
+09 Stage 3                          1:04   1:04
+10 Room 2                           0:26   0:26
+11 Boss 3                           0:32   0:32
+12 Stage 4                          0:54   0:53
+13 Boss 4                           0:17   0:17
+14 Boss 5                           0:29   0:29
+15 Ending                           1:30   -
+16 Gamw Over                        0:04   -
+
+Total Length                        8:18  14:40
+
+
+Notes:
+Track Names are used in use scene.
+
+This pack was made using MESS0148 VGM mod.
+
+Size reduction (vgm_cmp):
+    566 KB -> 410 KB (72.4 %)
+
+
+Package history:
+1.00 2014-01-12 2ch-H: Initial release.

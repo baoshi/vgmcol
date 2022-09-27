@@ -1,0 +1,51 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           TwinBee
+System:              Family Computer / Family
+                     Computer Disk System
+Music hardware:      NES APU (N2A03)
+
+Music author:        Shigeru Fukutake,
+                     Yoshinori Sasaki
+Game developer:      Konami
+Game publisher:      Konami
+Game release date:   1986-01-04 (Rom) /
+                     1988-03-11 (Disk)
+
+Package created by:  2ch-H
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Start                            0:01   -
+02 Twinbee's Home Town Song
+   (MainBGM)                        1:46   1:26
+03 Fantastic Power (Power-Up BGM)   0:25   0:21
+04 Boss BGM 1                       0:01   0:01
+05 Boss BGM 2                       0:11   0:11
+06 Stage Clear                      0:03   -
+07 Twinbee's Home Town Song
+   (MainBGM, With Out Intro)        1:39   1:26
+08 Boss BGM 3                       0:31   0:16
+09 Game Over                        0:05   -
+
+Total Length                        4:41   8:22
+
+
+Notes:
+Track Names are used in
+Konami Shooting Collection.
+
+
+This pack was made using MESS0156 VGM mod.
+
+
+Size reduction (vgm_cmp):
+   143 KB -> 120 KB (83.9 %)
+
+
+Package history:
+1.00 2015-03-25 2ch-H: Initial release.

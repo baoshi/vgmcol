@@ -1,0 +1,69 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Teenage Mutant Ninja
+                     Turtles (U) / Teenage
+                     Mutant Hero Turtles (E/A)
+                     / Gekikame Ninja Den (J)
+System:              Nintendo Entertainment
+                     System / Family Computer
+Music hardware:      NES APU (N2A03)
+
+Music author:        Jun Funahashi
+Game developer:      Konami
+Game publisher:      Ultra Games (U) /
+                     Palcom (E/A) /
+                     Konami (J)
+Game release date:   1989-06-25 (U) /
+                     1990-08-17 (E/A) /
+                     1989-05-12 (J)
+
+Package created by:  Paul999
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Title, Opening & Cutscene        0:37   0:30
+02 Areas 1-4 Overworld (Streets)    0:16   0:15
+03 Areas 1-1, 3-2 & 4 Stage Theme   0:28   0:26
+04 Areas 1-2, 2-2, 3-1 & 6 Stage
+   Theme                            0:23   0:22
+05 Mini-Boss Battle                 0:20   0:19
+06 Mini-Boss Clear                  0:02   -
+07 Boss Battle                      0:17   0:13
+08 Area Clear                       0:08   -
+09 Area 2-1 - Underwater            0:40   0:33
+10 Area 2-1 - Hurry                 0:05   0:05
+11 Area 2-1 - Hurry!!               0:04   0:04
+12 Area 5 Overworld (FootClan Base) 0:32   0:32
+13 Area 5 - FootClan Caverns        0:43   0:42
+14 Life Lost                        0:04   -
+15 Game Over                        0:04   -
+16 Ending                           0:37   -
+
+Total Length                        5:21   9:21
+
+
+Notes:
+This pack was made using NEZplug v0.9.4.8 + 2
++ 19.20 VGM mod.
+
+In Japan, the game was localized before any
+other form of TMNT media (such as the movie
+and the animated series), with under the title
+name, Geki Kame Ninja Den (which that loosely
+translates to "Radical Ninja Turtles Legends").
+Subsequent TMNT video games released in Japan
+kept the franchise's original title.
+
+In Europe, the game (and the franchise itself)
+is titled Teenage Mutant Hero Turtles, due to
+a law in the U.K. at the time that forbade the
+sales of products with the word "ninja" in
+their name to children.
+
+
+Package history:
+1.00 2021-12-27 Paul999: Initial release.
